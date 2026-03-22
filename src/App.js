@@ -1,5 +1,5 @@
 import React from 'react';
-import { Shield, Globe, Cpu, BarChart3, ChevronRight, Activity } from 'lucide-react';
+import { Shield, Globe, Cpu, Activity } from 'lucide-react';
 
 const Nav = () => (
   <nav className='flex items-center justify-between p-6 bg-[#0D47A1] text-white'>
